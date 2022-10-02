@@ -1,6 +1,8 @@
 # documicro
 A local document db. It is to NoSQL what SQLite is to SQL.
 
+> :disclamer: **There is no npm package yet**
+
 ## install
 `npm i --save documicro`
 
